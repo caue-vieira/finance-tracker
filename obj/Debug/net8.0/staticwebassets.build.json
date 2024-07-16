@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "XkWjZZst7xWcFGfRvV6qXCvLqrTCojV0MVf5+l2IFQw=",
+  "Source": "finance-tracker",
+  "BasePath": "_content/finance-tracker",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
